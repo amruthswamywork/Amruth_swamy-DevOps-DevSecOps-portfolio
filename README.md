@@ -7,7 +7,7 @@ This portfolio reflects DevOps principles such as automation, scalable architect
 🌐 Live Portfolio
 
 🔗 Portfolio Website
-https://amruthswamywork.github.io/Amruthswamy_Cloud-DevOps-SRE_Engineer_portfolio-/
+https://amruthswamywork.github.io/Amruth_swamy-DevOps-DevSecOps-portfolio/
 
 🧑‍💻 About the Project
 
@@ -90,10 +90,9 @@ Infrastructure automation using Terraform
 
 📦 Installation
 
-Clone the repository:
+Clone the repository https://github.com/amruthswamywork/Amruth_swamy-DevOps-DevSecOps-portfolio.git
 
-git clone https://github.com/amruthswamywork/Amruthswamy_Cloud-DevOps-SRE_Engineer_portfolio-.git
-
+git clone 
 Navigate to project:
 
 cd Amruthswamy_Cloud-DevOps-SRE_Engineer_portfolio-
