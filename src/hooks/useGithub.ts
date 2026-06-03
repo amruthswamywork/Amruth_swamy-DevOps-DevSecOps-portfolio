@@ -3,9 +3,6 @@ import axios from "axios";
 
 interface GithubData {
   public_repos: number;
-  followers: number;
-  following: number;
-  public_gists: number;
 }
 
 export function useGithub(username: string) {
